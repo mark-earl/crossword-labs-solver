@@ -1,6 +1,6 @@
 This hack solves crosswords at [Crossword Labs](https://crosswordlabs.com/)
 
-1) Open your crossword in your browser, here is an [example](https://crosswordlabs.com/view/country-133)
+1) Open your crossword in your browser, like this [example](https://crosswordlabs.com/view/country-133)
 2) Open the developer tools (usually F12)
 3) Navigate to the "console"
 4) Paste and run the following in: NOTE: You may need to "allow pasting".
